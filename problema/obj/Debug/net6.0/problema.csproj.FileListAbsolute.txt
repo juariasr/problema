@@ -1,0 +1,15 @@
+C:\Users\andres.paternina\source\repos\problema\problema\bin\Debug\net6.0\problema.exe
+C:\Users\andres.paternina\source\repos\problema\problema\bin\Debug\net6.0\problema.deps.json
+C:\Users\andres.paternina\source\repos\problema\problema\bin\Debug\net6.0\problema.runtimeconfig.json
+C:\Users\andres.paternina\source\repos\problema\problema\bin\Debug\net6.0\problema.dll
+C:\Users\andres.paternina\source\repos\problema\problema\bin\Debug\net6.0\problema.pdb
+C:\Users\andres.paternina\source\repos\problema\problema\obj\Debug\net6.0\problema.csproj.AssemblyReference.cache
+C:\Users\andres.paternina\source\repos\problema\problema\obj\Debug\net6.0\problema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andres.paternina\source\repos\problema\problema\obj\Debug\net6.0\problema.AssemblyInfoInputs.cache
+C:\Users\andres.paternina\source\repos\problema\problema\obj\Debug\net6.0\problema.AssemblyInfo.cs
+C:\Users\andres.paternina\source\repos\problema\problema\obj\Debug\net6.0\problema.csproj.CoreCompileInputs.cache
+C:\Users\andres.paternina\source\repos\problema\problema\obj\Debug\net6.0\problema.dll
+C:\Users\andres.paternina\source\repos\problema\problema\obj\Debug\net6.0\refint\problema.dll
+C:\Users\andres.paternina\source\repos\problema\problema\obj\Debug\net6.0\problema.pdb
+C:\Users\andres.paternina\source\repos\problema\problema\obj\Debug\net6.0\problema.genruntimeconfig.cache
+C:\Users\andres.paternina\source\repos\problema\problema\obj\Debug\net6.0\ref\problema.dll
